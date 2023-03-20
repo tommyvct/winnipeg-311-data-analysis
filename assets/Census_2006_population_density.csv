@@ -14,7 +14,7 @@ Neighbourhood,Colony,715,0.125468,5698.664201
 Neighbourhood,River-Osborne,4880,0.873156,5588.921109
 Neighbourhood,William Whyte,6220,1.161163,5356.698414
 Neighbourhood,Edgeland,1420,0.270556,5248.451337
-Ward,Daniel McIntyre Ward,43995,8.52666,5159.699108
+Ward,Daniel McIntyre,43995,8.52666,5159.699108
 Neighbourhood,St. John's,7725,1.548992,4987.114201
 Neighbourhood,Inkster-Faraday,4135,0.838967,4928.680151
 Neighbourhood,The Maples,13335,2.938551,4537.950847
@@ -57,9 +57,9 @@ Neighbourhood,Heritage Park,5500,1.669784,3293.839203
 Neighbourhood,Mandalay West,5085,1.544172,3293.026943
 Neighbourhood,North River Heights,5660,1.72579,3279.657432
 Neighbourhood,Kildare-Redonda,6490,2.006422,3234.613656
-Ward,Fort Rouge - East Fort Garry Ward,45150,14.028708,3218.40044
+Ward,Fort Rouge - East Fort Garry,45150,14.028708,3218.40044
 Neighbourhood,Dufferin,2090,0.653222,3199.524817
-Ward,Mynarski Ward,39800,12.53219623,3175.820045
+Ward,Mynarski,39800,12.53219623,3175.820045
 Neighbourhood,Norwood East,4125,1.300565,3171.698454
 Neighbourhood,Central St. Boniface,6215,1.970368,3154.233118
 Neighbourhood,Rossmere-B,3885,1.233818,3148.762621
@@ -72,7 +72,7 @@ Neighbourhood,Richmond West,8195,2.665643,3074.305149
 Neighbourhood,Templeton-Sinclair,5160,1.679699,3071.978968
 Neighbourhood,Victoria West,2600,0.849357,3061.139191
 Neighbourhood,Meadowood,5970,1.990857,2998.708596
-Ward,Elmwood - East Kildonan Ward,42135,14.323183,2941.73439
+Ward,Elmwood - East Kildonan,42135,14.323183,2941.73439
 Neighbourhood,Lord Roberts,4955,1.691177,2929.912126
 Neighbourhood,Booth,5485,1.875185,2925.044729
 Neighbourhood,Leila-Mcphillips Triangle,3040,1.046607,2904.624181
@@ -132,15 +132,15 @@ Neighbourhood,Norwood West,3055,1.33276,2292.235661
 Neighbourhood,Glenwood,3650,1.628446,2241.400697
 Neighbourhood,Southdale,6710,3.034977,2210.889901
 Neighbourhood,Norberry,1295,0.587844,2202.965413
-Ward,North Kildonan Ward,36630,17.005303,2154.03395
+Ward,North Kildonan,36630,17.005303,2154.03395
 Neighbourhood,Southboine,1505,0.699467,2151.638319
 Neighbourhood,Meadows,5165,2.406767,2146.032416
 Neighbourhood,Kildonan Drive,4855,2.269437,2139.297103
 Neighbourhood,Sir John Franklin,2320,1.087603,2133.131299
 Neighbourhood,Varsity View,2600,1.230367,2113.190617
 Neighbourhood,Springfield North,5245,2.492606,2104.223451
-Ward,Point Douglas Ward,42415,20.65081877,2053.91372
-Ward,River Heights - Fort Garry Ward,48465,23.775247,2038.464627
+Ward,Point Douglas,42415,20.65081877,2053.91372
+Ward,River Heights - Fort Garry,48465,23.775247,2038.464627
 Neighbourhood,Grant Park,2700,1.369985,1970.824498
 Neighbourhood Cluster,Seven Oaks East Neighbourhood Cluster,33825,17.253971,1960.418271
 Neighbourhood,Beaumont,2360,1.205646,1957.456832
@@ -179,7 +179,7 @@ City,City of Winnipeg,633451,475.218785,1332.967088
 Neighbourhood,Exchange District,420,0.319433,1314.829714
 Neighbourhood,Eric Coy,2540,2.001447,1269.081819
 Neighbourhood,North St. Boniface,1775,1.401853,1266.181262
-Ward,Old Kildonan Ward,44465,38.534601,1153.898025
+Ward,Old Kildonan,44465,38.534601,1153.898025
 City,Non-Inner City,503980,444.679796,1133.354842
 Neighbourhood,Old Tuxedo,860,0.763741,1126.036182
 Neighbourhood,Amber Trails,2135,1.90238,1122.278409
@@ -189,35 +189,35 @@ Community Area,Transcona Community Area,30740,29.024131,1059.118704
 Community Area,St. Boniface Community Area,49155,47.405536,1036.904213
 Neighbourhood,Ridgedale,840,0.811653,1034.925023
 Neighbourhood Cluster,St. James - Assiniboia West Neighbourhood Cluster,31430,30.520417,1029.802443
-Ward,St. Charles Ward,31430,30.520417,1029.802443
+Ward,St. Charles,31430,30.520417,1029.802443
 Neighbourhood,Tuxedo,2415,2.356297,1024.913243
 Neighbourhood,Tissot,135,0.131848,1023.906316
-Ward,Transcona Ward,32910,32.380525,1016.35165
-Ward,St. Boniface Ward,49160,48.969143,1003.897495
+Ward,Transcona,32910,32.380525,1016.35165
+Ward,St. Boniface,49160,48.969143,1003.897495
 Neighbourhood,Brockville,705,0.703795,1001.712146
 Neighbourhood,Niakwa Park,745,0.751182,991.7703033
 Neighbourhood,Royalwood,2840,2.87875,986.5392966
 Community Area,St. James - Assiniboia Community Area,57855,59.263749,976.2291616
 Community Area,St. Vital Community Area,61605,63.278826,973.5484031
-Ward,St. James - Brooklands Ward,29230,30.818683,948.4506525
+Ward,St. James - Brooklands,29230,30.818683,948.4506525
 Neighbourhood Cluster,St. James - Assiniboia East Neighbourhood Cluster,26430,28.743332,919.5176119
 Neighbourhood Cluster,Seven Oaks West Neighbourhood Cluster,20770,22.622316,918.1199661
 Community Area,Fort Garry Community Area,68095,77.052747,883.7452609
 Neighbourhood,Grassie,2165,2.479632,873.1134297
-Ward,St. Vital Ward,50080,57.811236,866.2675885
+Ward,St. Vital,50080,57.811236,866.2675885
 Neighbourhood,Kingston Crescent,620,0.718193,863.2776983
 Neighbourhood,Wildwood,1095,1.276301,857.9480859
 Neighbourhood,Glendale,1070,1.247687,857.5868788
 Neighbourhood,Archwood,780,0.911774,855.4751506
 Neighbourhood Cluster,St. Boniface East Neighbourhood Cluster,33990,41.39999,821.0146911
 Neighbourhood,Victoria Crescent,615,0.7638,805.1846033
-Ward,St. Norbert Ward,47650,61.268368,777.7259548
+Ward,St. Norbert,47650,61.268368,777.7259548
 Neighbourhood,Agassiz,435,0.593443,733.010584
 Neighbourhood,Rivergrove,1095,1.527045,717.0712062
 Neighbourhood,St. Norbert,1290,1.809677,712.8343898
 Neighbourhood,Normand Park,700,1.042995,671.144157
 Neighbourhood Cluster,St. Vital South Neighbourhood Cluster,35175,52.436309,670.8138058
-Ward,Charleswood - Tuxedo Ward,42180,64.073696,658.3044624
+Ward,Charleswood - Tuxedo,42180,64.073696,658.3044624
 Neighbourhood Cluster,Fort Garry South Neighbourhood Cluster,36130,55.800778,647.4820118
 Neighbourhood,Leila North,750,1.276568,587.5127686
 Neighbourhood Cluster,Assiniboine South Neighbourhood Cluster,34615,61.233462,565.2954915
