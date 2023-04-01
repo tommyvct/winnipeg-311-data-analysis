@@ -1,0 +1,4 @@
+https://legacy.winnipeg.ca/Census/2016/Community%20Areas/Downtown%20Neighbourhood%20Cluster/Neighbourhoods/Downtown%20East/Downtown%20East%20Neighbourhoods/Logan-C.P.R./Logan-C.P.R..xlsx+\n
+https://legacy.winnipeg.ca/Census/2016/Community%20Areas/Inkster%20Neighbourhood%20Cluster/Neighbourhoods/Inkster%20West/Inkster%20West%20Neighbourhoods/Oak%20Point%20Highway/Oak%20Point%20Highway.xlsx+\n
+https://legacy.winnipeg.ca/Census/2016/Community%20Areas/St.%20Boniface%20Neighbourhood%20Cluster/Neighbourhoods/St.%20Boniface%20East/St.%20Boniface%20East%20Neighbourhoods/Fraipont/Fraipont.xlsx+\n
+https://legacy.winnipeg.ca/Census/2016/Community%20Areas/St.%20Boniface%20Neighbourhood%20Cluster/Neighbourhoods/St.%20Boniface%20East/St.%20Boniface%20East%20Neighbourhoods/Symington%20Yards/Symington%20Yards.xlsx+\n
