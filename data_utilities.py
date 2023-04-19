@@ -37,8 +37,11 @@ def top_n(n: int, group_by: str, ascending = False) -> list:
 # ## Services
 
 # %%
-services = DF["Service Area and Request"].unique().tolist()
+# services = DF["Service Area and Request"].unique().tolist()
+services = DF["Service Request"].unique().tolist()
 services.sort()
+
+services.insert(3, services[3])
 
 def print_services():
     for i, item in enumerate(services):
